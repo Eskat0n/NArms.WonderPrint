@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>NArms.WonderPrint</id>
+    <version>$version$</version>
+    <title>NArms.WonderPrint</title>
+    <authors>Eskat0n</authors>
+    <owners>Eskat0n</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>http://eskat0n.ru/NArms.WonderPrint</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description></description>
+    <tags>PrettyPrint Debug</tags>
+  </metadata>
+</package>

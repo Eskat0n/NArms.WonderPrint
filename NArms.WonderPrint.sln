@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NArms.WonderPrint", "sources\NArms.WonderPrint\NArms.WonderPrint.csproj", "{72F38FA1-E09F-40DC-BADC-3D7794B91AEF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuspec", ".nuspec", "{5AAF27C7-CC92-46F5-B2A4-E0E475BBAC0C}"
+	ProjectSection(SolutionItems) = preProject
+		sources\NArms.WonderPrint\NArms.WonderPrint.nuspec = sources\NArms.WonderPrint\NArms.WonderPrint.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
