@@ -9,7 +9,7 @@
     <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
     <projectUrl>http://eskat0n.ru/NArms.WonderPrint</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description></description>
+    <description>Pretty printer for .NET highly inspired by Ruby's awesome_print gem</description>
     <tags>PrettyPrint Debug</tags>
   </metadata>
 </package>
